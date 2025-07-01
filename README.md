@@ -1,7 +1,7 @@
 ![Cover](https://i.ibb.co/L8VS5cB/Black-and-White-Trendy-Gaming-Youtube-Banner.png)
 
 # 💫 About Me:
-🔭 I’m currently working at Cooality<br><br>🌱 I’m currently learning Problem Solving<br><br>💬 Ask me about react, nextjs, nodejs, expressjs<br><br>📫 How to reach me abuhosainmin@gmail.com<br><br>⚡ Every bug is an opportunity to learn and grow! 🐛✨  
+🔭 I’m currently working at Cooality<br><br>🌱 I’m currently learning Problem Solving<br><br>💬 Ask me about react, nextjs, nodejs, expressjs<br><br>📫 How to reach me codewithshafiul@gmail.com<br><br>⚡ Every bug is an opportunity to learn and grow! 🐛✨  
 
 
 ## 🌐 Socials:
